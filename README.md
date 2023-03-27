@@ -59,6 +59,10 @@ We believe that a continuing and high-quality output is the best way to strength
 - DeFi Analysis
     - [5.1 [Beginner] The Ultimate Beginner's Guide to DeFi - All You Need to Know to Invest in DeFi ](https://www.footprint.network/article/5-1-beginner-the-ultimate-beginner-s-guide-to-defi-all-you-need-to-know-to-invest-in-defi-fp-8Ou3iK6Q)
     - [5.2 [Beginner] The Ultimate Beginner's Guide to DeFi - How to Make Money with Crypto by Yield Farming](https://www.footprint.network/article/5-2-beginner-the-ultimate-beginner-s-guide-to-defi-how-to-make-money-with-crypto-by-yield-farming-KM0t1g6d)
+
+- Offchain Data Storage leveraging ZK
+    - [Polybase Docs](https://docs.polybase.xyz)
+    - [Build an NFT gated chat app using Polybase](https://www.youtube.com/watch?v=YzPfCLQBGTI&t=117s)
    
 - Wallet Analysis
     - [6.1 [Beginner] Wallet Addresses Analysis](https://www.footprint.network/article/4-1-wallet-addresses-analysis-fp-xvdIKGzc)
